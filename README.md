@@ -42,4 +42,4 @@ Lihat panduan penggunaan, lisensi, changelog, dan daftar aset yang tersedia di r
 ## Penerbit
 
 **The Choco Studios (TCS)**  
-Kontak: thechocostudio@gmail.com
+Kontak: thechocostudios@gmail.com
